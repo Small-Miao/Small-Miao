@@ -1,4 +1,4 @@
-## 这里是一个很菜的猫猫
+## 这里呆萌家的笨猫X
 ---
 ## [Code Info]
 ![info](https://github-readme-stats.vercel.app/api?username=Small-Miao&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=%F0%9F%92%95%20Github%20Stats&count_private=true)
